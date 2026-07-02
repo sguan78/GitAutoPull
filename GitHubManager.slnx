@@ -3,4 +3,7 @@
     <Project Path="src/GitHubManager.Core/GitHubManager.Core.csproj" />
     <Project Path="src/GitHubManager.Wpf/GitHubManager.Wpf.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GitHubManager.Core.Tests/GitHubManager.Core.Tests.csproj" />
+  </Folder>
 </Solution>
