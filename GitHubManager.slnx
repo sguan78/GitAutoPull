@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GitHubManager.Core/GitHubManager.Core.csproj" />
+    <Project Path="src/GitHubManager.Wpf/GitHubManager.Wpf.csproj" />
+  </Folder>
+</Solution>

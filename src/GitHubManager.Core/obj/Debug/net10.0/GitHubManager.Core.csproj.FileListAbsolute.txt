@@ -1,0 +1,11 @@
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\bin\Debug\net10.0\GitHubManager.Core.deps.json
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\bin\Debug\net10.0\GitHubManager.Core.dll
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\bin\Debug\net10.0\GitHubManager.Core.pdb
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\GitHubManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\GitHubManager.Core.AssemblyInfoInputs.cache
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\GitHubManager.Core.AssemblyInfo.cs
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\GitHubManager.Core.csproj.CoreCompileInputs.cache
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\GitHubManager.Core.dll
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\refint\GitHubManager.Core.dll
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\GitHubManager.Core.pdb
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\ref\GitHubManager.Core.dll

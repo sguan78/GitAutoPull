@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GitHubManager.Wpf/1.0.0": {
+        "runtime": {
+          "GitHubManager.Wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GitHubManager.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
