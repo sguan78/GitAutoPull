@@ -9,3 +9,4 @@ C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\GitHubManage
 C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\refint\GitHubManager.Core.dll
 C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\GitHubManager.Core.pdb
 C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\ref\GitHubManager.Core.dll
+C:\AI Projects\GitAutoPull\src\GitHubManager.Core\obj\Debug\net10.0\GitHubManager.Core.csproj.AssemblyReference.cache

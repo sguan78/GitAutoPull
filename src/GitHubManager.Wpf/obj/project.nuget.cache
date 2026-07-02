@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "jmHq2rBX6JI=",
+  "dgSpecHash": "6lQz+190VWo=",
   "success": true,
   "projectFilePath": "C:\\AI Projects\\GitAutoPull\\src\\GitHubManager.Wpf\\GitHubManager.Wpf.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\libgit2sharp\\0.31.0\\libgit2sharp.0.31.0.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.323\\libgit2sharp.nativebinaries.2.0.323.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
