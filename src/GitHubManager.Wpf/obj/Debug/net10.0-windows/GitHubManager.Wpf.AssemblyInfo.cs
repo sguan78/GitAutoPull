@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHubManager.Wpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e05d21ba7910886a3bfc5377ac0a4c0999b3d7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bc91a11da661b4f4824c77946fa7ee8e6fcd6e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHubManager.Wpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHubManager.Wpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
